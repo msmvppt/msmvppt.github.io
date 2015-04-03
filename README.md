@@ -44,5 +44,5 @@ Durante o evento usa as hashtags:
 
 Microsoft | Everis | Devscope|  Galileu
 :---------- | :------------------------ | :------------------------ | :------------------------ | 
-Capgemini | Xamarin | Pluralsight| Resharper|
+Capgemini | Xamarin | Pluralsight | JetBrains |
 Nokia | Wintelect | ||
