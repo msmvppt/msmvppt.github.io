@@ -8,41 +8,4 @@ O Microsoft MVP Showcase é um evento organizado pelos [Microsoft MVPs de Portug
 
 Neste evento os MVP vão apresentar um conjunto de sessões, com base na sua área de especialidade, com as últimas novidades e tendências das várias plataformas que vão ser apresentadas. Iremos também promover o contacto com os participantes durante todo o evento. Vamos ter os intervalos onde podem vir falar connosco na zona "Ask the experts" para nos conhecerem e para nos colocarem as vossas questões.
 
-# Agenda
-
-
-
-  **Horário** |  **Entrada** |  **Sala X**   | **Sala Y**   |
-:---------- | :------------------------ | :------------------------ | :------------------------ | 
-08:30-9:00 | Credenciação| | |
-09:00-09:30	| |Keynote by MVP Lead ([Cristina Gonzalez](https://twitter.com/crisgherrero))||
-09:30- 09:45  | Comunidades em Portugal ||
-10:00-10:30	| |S 1|S 2|
-10:30-11:00 | Ask the expert||
-11:00-11:30	| |S 3|S 4|
-11:30-12:00 |Ask the expert||
-12:00-12:30	|| S 5|S 6|
-12:30-13:30 |Lunch
-13:30-14:00	 ||S 7|S 8|
-14:00-14:30 |Ask the expert||
-14:30-15:00	 ||S 9|S 10|
-15:00-15:30 |Ask the expert||
-15:30-16:00	||S 11|S 12|
-16:00-16:30 |Ask the expert||
-16:30-17:00	||S 13|S 14|
-17:15-17:45	|Premios||
-
-#Hashtags
-
-
-Durante o evento usa as hashtags:
-
-- **#mvppt** 
-- **#showcase15**
-
-# Patrocinadores
-
-Microsoft | Everis | Devscope|  Galileu
-:---------- | :------------------------ | :------------------------ | :------------------------ | 
-Capgemini | Xamarin | Pluralsight| Resharper|
-Nokia | Wintelect | ||
+Consulta toda a informação em [msmvppt.org](http://msmvppt.org)
