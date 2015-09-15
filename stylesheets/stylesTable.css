@@ -59,3 +59,10 @@ table.table1{
     color:#666;
     text-shadow:1px 1px 1px #fff;
 }
+
+.table1 tbody td.header{
+    text-align:center;
+}
+.table1 tbody td.description{
+    text-align:justify;
+}
